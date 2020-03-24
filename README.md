@@ -1,5 +1,10 @@
 # kit-covid19
 
+Los archivos fueron recopilados entre makers de diversas comunidades y médicos de la Asociación de Anestesia, Analgesia y Reanimación de Buenos Aires. 
+
+El objetivo fue dotar a los médicos, siguiendo sus instrucciones de máscaras para tratar pacientes con COVID-19 o casos sospechosos. 
+
+
 ## VISERA SIN SOSTEN
 
 Este fue el primer modelo que implementamos. Desconozco el origen del diseño, nos llegó por medio de la comunidad. El problema de este diseño fue el tiempo de impresión (2 horas) y el uso excesivo de material (11 metros de PLA 1.75mm). Por otro lado la lámina que hace de máscara necesita perforaciones y no queda encastrada en la visera. Se utiliza elástico para sujetar en la parte de atrás. Lo discontinuamos por VISERA 2.0
