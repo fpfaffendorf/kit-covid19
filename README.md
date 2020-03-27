@@ -16,7 +16,7 @@ El acetato encastra en la visera, no necesita perforaciones, es mas fácil de ar
 
 ## VISERA 3.0
 
-Luego de descubrir que teníamos poco elástico Crístian (uno de los miembros de nuestro grupo) mejoró el diseño. La visera 3.0 permite el uso de una banda elástica en vez de un elástico. Esta es para nosotros la versión definitiva de la máscara. Solo agrega unos minutos extras a la impresión y pocos milímetros adicionales de PLA.
+Luego de descubrir que teníamos poco elástico Crístian (@nost3rd) mejoró el diseño. La visera 3.0 permite el uso de una banda elástica en vez de un elástico. Esta es para nosotros la versión definitiva de la máscara. Solo agrega unos minutos extras a la impresión y pocos milímetros adicionales de PLA.
 
 ## Mascara sin PLA
 
@@ -24,4 +24,4 @@ Se producen en muy pocos minutos cortando acetato con una cortadora laser. Estam
 
 ## VISERA 4.1
 
-Luego de ver que hay personas comercializando máscaras en distintos portales de venta Crístian (uno de los miembros de nuestro grupo) actualizó el diseño con la leyenda "donación".
+Luego de ver que hay personas comercializando máscaras en distintos portales de venta Crístian (@nost3rd) actualizó el diseño con la leyenda "donación".
