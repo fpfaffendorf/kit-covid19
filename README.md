@@ -22,3 +22,6 @@ Luego de descubrir que teníamos poco elástico Crístian (uno de los miembros d
 
 Se producen en muy pocos minutos cortando acetato con una cortadora laser. Estamos investigando sobre este diseño con muy buenos resultados. Se sujetan con un hilo o banda elástica por detrás. Son mas sencillas a la hora de higienizarlas. 
 
+## VISERA 4.1
+
+Luego de ver que hay personas comercializando máscaras en distintos portales de venta Crístian (uno de los miembros de nuestro grupo) actualizó el diseño con la leyenda "donación".
